@@ -1,0 +1,14 @@
+[
+{
+  "modid": "ZoomMod",
+  "name": "ZoomMod",
+  "description": "Zoom like optifine",
+  "version": "1.2",
+  "mcversion": "1.6.4",
+  "url": "minecraftforum.net/topic/2109534",
+  "updateUrl": "",
+  "authors": ["ga2mer"],
+  "parent": "",
+  "screenshots": [],
+}
+]
